@@ -1,0 +1,2 @@
+# ararripesoldier.ipynb
+soldier araripe
