@@ -27,10 +27,10 @@ def calculate_similarity(audio_path1, audio_path2):
         return "Os áudios são diferentes, não sao o mesmo passaro."
 
 # Caminhos dos arquivos de áudio
-#audio_path1 = "aud1.mpeg"
-#audio_path2 = "aud2.mpeg"
-audio_path1 = "c:\\Users\\Virgínia Sobral\\Downloads\\aud1.mpeg"
-audio_path2 = "c:\\Users\\Virgínia Sobral\\Downloads\\aud2.mpeg"
+audio_path1 = "aud1.mpeg"
+audio_path2 = "aud2.mpeg"
+#audio_path1 = "c:\\Users\\user\\Downloads\\aud1.mpeg"
+#audio_path2 = "c:\\Users\\user\\Downloads\\aud2.mpeg"
 
 # Calcula e imprime a similaridade
 result = calculate_similarity(audio_path1, audio_path2)
